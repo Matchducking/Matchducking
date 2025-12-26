@@ -4,6 +4,6 @@ https://discord.gg/nNwPDRXynU
 
 [![Discord](https://dcbadge.limes.pink/api/server/nNwPDRXynU)](https://discord.gg/nNwPDRXynU)
 
-(server is more for real-time talking and analytics)
-
 If you want to know about my motivations, check out [Questions About Duck](https://github.com/Matchducking/questions-about-duck) repository.
+
+<img width="2551" height="1536" alt="image" src="https://github.com/user-attachments/assets/c390e1de-92c5-4098-b2a1-233fe7cf3ed7" />
