@@ -4,6 +4,6 @@ https://discord.gg/qq84Dq6dH2
 
 [![Discord](https://dcbadge.limes.pink/api/server/qq84Dq6dH2)](https://discord.gg/qq84Dq6dH2)
 
-If you want to know about my motivations, check out [Questions About Duck](https://github.com/Matchducking/questions-about-duck) repository.
+If you want to know about my motivations, check out [Questions About Duck](https://github.com/Matchducking/questions-about-duck) and [Innersloth Contact Attempts](https://github.com/Matchducking/innersloth-contact-attempts) repositories.
 
 <img width="2551" height="1536" alt="image" src="https://github.com/user-attachments/assets/c390e1de-92c5-4098-b2a1-233fe7cf3ed7" />
